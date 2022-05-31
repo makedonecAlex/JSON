@@ -1,4 +1,7 @@
-Avatar
-Friends 
-hash browns
-Summer
+{
+    "favorit_movie": "Avatar",
+    "favorit_series": "Friend",
+    "favorit_food": "hash browns",
+    "favorit_season": "Summer",
+    "favorit_country": "USA",
+}

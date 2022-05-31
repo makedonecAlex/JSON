@@ -1,4 +1,6 @@
-Safonau Aliasandr Mihailovich
-34 age
-home animal zero
->1000
+{
+    "Safonau Aliasandr Mihailovich",
+    "Age": 34,
+    "Home animal" "zero",
+    "Salary": 1000
+}
